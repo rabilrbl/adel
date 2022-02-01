@@ -120,5 +120,3 @@ Asynchronous counter is a device in which all the flip flops are clocked with di
 ## Up and Down counter
 
 An up-down counter is a combination of an up-counter and a down-counter. It can count in both directions, increasing as well as decreasing.
-
-- applications of synchronous and asynchronous
