@@ -1,5 +1,5 @@
 # Analog and Digital Lab Viva Voice Notes
 
-## [Analog Electronics](Analog.md)
+## [Analog Electronics](Analog)
 
-## [Digital Electronics](Digital.md)
+## [Digital Electronics](Digital)
